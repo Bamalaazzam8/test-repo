@@ -1,2 +1,3 @@
-# test-repo
-employee management system
+# Employee Management System
+
+This project manages employees data.
